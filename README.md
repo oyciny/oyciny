@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 My name is Coby, but from now on I'll be known as oyciny. I'm working on several interesting projects and always coming up with more.  
 If you would like to explore my current projects please continue scrolling. If you would like to see my [archived projects](https://github.com/oyciny?tab=repositories&q=&type=archived) then feel free to take a look at those.
 
-## :hammer: Current Projects
-* Node-Trader
-* Housewife
+| ## :hammer: Current Projects |
+| :---          |    :---      |
+| test          |      test    |
 
 ## :dollar: [Node-Trader](https://github.com/oyciny/node-trader)
 Node-Trader is a project I am working on that allows you to make buy and sell orders from the command line.  
