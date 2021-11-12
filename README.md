@@ -19,7 +19,8 @@ My name is C--- *(REDACTED)*. I'll be known as oyciny. I'm working on several in
 If you would like to explore my current projects please continue scrolling. If you would like to see my [archived projects](https://github.com/oyciny?tab=repositories&q=&type=archived) then feel free to take a look at those.
 
 ## 🔭 Current Projects
-* [node-trader](##Node-Trader)
+* Node-Trader
+* Housewife
 
 ## [Node-Trader](https://github.com/oyciny/node-trader)
 Node-Trader is a project I am working on that allows you to make buy and sell orders from the command line.  
