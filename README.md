@@ -27,5 +27,5 @@ Node-Trader is a project I am working on that allows you to make buy and sell or
 The end goal will be a simple and fast way to trade stocks straight from the command line.  
 
 ## [Housewife](https://github.com/oyciny/housewife)
-Housewife is a cli application that cleans up Node.js projects for you. At build time it analyzes the project for unused packages and removes them from  
+Housewife is a cli application that cleans up Node.js projects for you. At build time it analyzes the project for unused packages and removes them from 
 your dependencies and code. This allows you to keep large projects as clean as possible by removing unnessecary code you may have forgot about.
