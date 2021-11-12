@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is C--- *(REDACTED)*. I'll be known as oyciny. I'm working on several interesting projects and always coming up with more.  
+
+## 🔭 Current Projects
+* [node-trader](##Node-Trader)
+
+## [Node-Trader](https://github.com/oyciny/node-trader)
