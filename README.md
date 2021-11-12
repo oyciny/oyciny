@@ -19,14 +19,21 @@ My name is Coby, but from now on I'll be known as oyciny. I'm working on several
 If you would like to explore my current projects please continue scrolling. If you would like to see my [archived projects](https://github.com/oyciny?tab=repositories&q=&type=archived) then feel free to take a look at those.
 
 ## :hammer: Current Projects
-* [Node-Trader](#node-trader)
-* [Housewife](#housewife)
+* [Node-Trader](#dollar-node-trader)
+* [Housewife](#broom-housewife)
 
 ## :dollar: Node-Trader
+![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/node-trader?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/node-trader?style=flat-square)  
+
 Node-Trader is a project I am working on that allows you to make buy and sell orders from the command line.  
 The end goal will be a simple and fast way to trade stocks straight from the command line.  
-[open 🔗](https://github.com/oyciny/node-trader)
+[checkout](https://github.com/oyciny/node-trader)
 
-## :broom: [Housewife](https://github.com/oyciny/housewife)
+## :broom: Housewife
+![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/housewife?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/housewife?style=flat-square)  
+
 Housewife is a cli application that cleans up Node.js projects for you. At build time it analyzes the project for unused packages and removes them from 
-your dependencies and code. This allows you to keep large projects as clean as possible by removing unnessecary code you may have forgot about.
+your dependencies and code. This allows you to keep large projects as clean as possible by removing unnessecary code you may have forgot about.  
+[checkout](https://github.com/oyciny/housewife)
