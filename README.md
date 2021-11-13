@@ -24,7 +24,7 @@ If you would like to explore my current projects please continue scrolling. If y
 
 ## :dollar: Node-Trader
 ![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/node-trader?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/oyciny/node-trader?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/oyciny/node-trader?style=flat-square)
 
 Node-Trader is a project I am working on that allows you to make buy and sell orders from the command line.  
 The end goal will be a simple and fast way to trade stocks straight from the command line.  
@@ -32,7 +32,7 @@ The end goal will be a simple and fast way to trade stocks straight from the com
 
 ## :broom: Housewife
 ![GitHub last commit](https://img.shields.io/github/last-commit/oyciny/housewife?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/oyciny/housewife?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/oyciny/housewife?style=flat-square)
 
 Housewife is a cli application that cleans up Node.js projects for you. At build time it analyzes the project for unused packages and removes them from 
 your dependencies and code. This allows you to keep large projects as clean as possible by removing unnessecary code you may have forgot about.  
